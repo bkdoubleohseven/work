@@ -2,8 +2,8 @@
 
 BK007 has availability for conducting reports on blockchain analysis and intel gathering as well as writing. Reach out to me on [Twitter](https://twitter.com/bkdoubleohseven) or [Telegram](https://t.me/bkdoubleohseven), both @bkdoubleohseven.
 
-By default, the audit includes four types of work:
 
+## Cost
 Preliminary research – the study of the project, its documentation, a first quick review of the code base, and compiling the list of integrations. In addition, we check both the web and our knowledge base for similar projects, their prior audits, and relevant exploits.
 The audit itself – this part includes both manual code review (the most important part of the audit) and analysis with several security tools, both proprietary and publicly available.
 The preparation of the private report.
