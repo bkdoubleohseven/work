@@ -1,6 +1,6 @@
 # BK007 Work
 
-BK007 has availability for conducting reports on blockchain analysis as well as writing. Reach out to me on [Twitter](https://twitter.com/bkdoubleohseven) or [Telegram](https://t.me/bkdoubleohseven), both @bkdoubleohseven.
+BK007 has availability for conducting reports on blockchain analysis as well as writing. Reach out to me on [Twitter](https://twitter.com/bkdoubleohseven) or [Telegram](https://t.me/bkdoubleohseven), both @bkdoubleohseven (Bithiah).
 
 
 ## Pricing
