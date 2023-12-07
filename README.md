@@ -19,11 +19,10 @@ Cost of the report (blockchain analysis + osint) = Number of suspect addresses (
 ### Writing
 I do not know _everything_. Hence, I take time to thoroughly research and read as much as possible to create high-quality pieces. 
 
-The time taken may vary depending on how complex of a topic it is. 
+The time taken may vary depending on how complex of a topic it is. It enerally ranges between 1 - 2 hrs with extreme cases being 3 hrs.
 
 
-Cost per article = Number of words / 7 * time taken (varies depending on toughness of topic but generally between 1 - 2 hrs with extreme cases being 3 hrs)
-
+Cost per article = Number of words / 7 * time taken 
 
 
 
