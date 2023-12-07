@@ -22,8 +22,7 @@ In rare cases, the estimate deviates significantly (up to 25%). This happens, fo
 
 
 
-
-_Past work and/or clients (able to publicly disclose)._
+## Past work and/or clients (able to publicly disclose)
 
 **December 2023**
 
