@@ -37,3 +37,39 @@ Past work and/or clients (able to publicly disclose).
 5. [Identifying Major Reversal Patterns](https://marketmapper.io/post/identifying-major-reversal-patterns) - Writing
 6. [The Art of Trading Psychology](https://marketmapper.io/post/trading-psychology) - Writing
 
+
+
+
+**August 2023**
+
+
+**August 2023**
+
+**August 2023**
+
+**August 2023**
+
+**August 2023**
+
+**August 2023**
+
+**July 2022**
+1. [Address bar autocomplete suggestions in Firefox ](https://support.mozilla.org/en-US/kb/address-bar-autocomplete-firefox)
+
+**June 2022**
+
+**May 2022**
+
+
+**April 2022**
+
+1. [Secure connection failed and Firefox did not connect](https://support.mozilla.org/en-US/kb/secure-connection-failed-firefox-did-not-connect)
+
+2. 
+
+**March 2022**
+
+**February 2023**
+1. [Install an older version of Firefox ](https://support.mozilla.org/en-US/kb/install-older-version-firefox)
+2. [Import Bookmarks and other data from Microsoft Edge](https://support.mozilla.org/en-US/kb/import-bookmarks-and-other-data-microsoft-edge)
+
