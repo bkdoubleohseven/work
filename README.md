@@ -14,8 +14,7 @@ The analysis itself – analysis with several tools from our tech stack (Arkham,
 
 Time - on average, it takes < 72 hours for prelim report to be delivered. The full completion of a case depends solely on the complexity. We try to take all these factors into account during the project estimation.
 
-
-Cost of the report = Number of suspect addresses (determined from prelim report) / 200 * 1.5 * the cost of one working day of the team. 
+Cost of the report (blockchain analysis + osint) = Number of suspect addresses (determined from prelim report) + number of identifiable suspects * the cost of one working day. 
 
 ### Writing
 I do not know _everything_. Hence, I take time to thoroughly research and read as much as possible to create high-quality pieces. 
@@ -23,7 +22,7 @@ I do not know _everything_. Hence, I take time to thoroughly research and read a
 The time taken may vary depending on how complex of a topic it is. 
 
 
-Cost per article = Number of words / 7 * time taken (varies depending on toughness of topic but generally between 1 - 2 hrs)
+Cost per article = Number of words / 7 * time taken (varies depending on toughness of topic but generally between 1 - 2 hrs with extreme cases being 3 hrs)
 
 
 
