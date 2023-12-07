@@ -5,6 +5,10 @@ Past work and/or clients (able to publicly disclose).
 
 
 
+**December 2023**
+
+[Lionsgate Network](https://lionsgate.network/) - Blockchain analysis & intel
+
 **November 2023**
 
 [Lionsgate Network](https://lionsgate.network/) - Blockchain analysis & intel
