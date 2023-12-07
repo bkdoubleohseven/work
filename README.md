@@ -20,10 +20,11 @@ Cost of the report = Number of suspect addresses (determined from prelim report)
 ### Writing
 I do not know _everything_. Hence, I take time to thoroughly research and read as much as possible to create high-quality pieces. 
 
-Though cost doesn't change, the time taken may vary depending on how complex of a topic it is. 
+The time taken may vary depending on how complex of a topic it is. 
 
 
-Cost per article = Number of words/ 200 * 1.5 * the cost of one working day of the team.
+Cost per article = Number of words / 7 * time taken (varies depending on toughness of topic but generally between 1 - 2 hrs)
+
 
 
 
