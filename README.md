@@ -67,6 +67,7 @@ In rare cases, the estimate deviates significantly (up to 25%). This happens, fo
 
    
 **June 2022**
+
 [View articles recommended by Pocket on your Firefox New Tab and homepage](https://support.mozilla.org/en-US/kb/view-articles-recommended-pocket-firefox-new-tab-homepage) - KB Writing
 
 **May 2022**
@@ -85,6 +86,7 @@ In rare cases, the estimate deviates significantly (up to 25%). This happens, fo
 3. [Total Cookie Protection and website breakage FAQ](https://support.mozilla.org/en-US/kb/total-cookie-protection-and-website-breakage-faq) - KB Writing
 
 **March 2022**
+
 [Bookmarks in Firefox](https://support.mozilla.org/en-US/kb/bookmarks-firefox) - KB Writing
    
 
@@ -108,4 +110,5 @@ In rare cases, the estimate deviates significantly (up to 25%). This happens, fo
 5. [Extensions in Private Browsing](https://support.mozilla.org/en-US/kb/extensions-private-browsing) - KB Writing
 
 **September 2021**
+
 [How to restore a browsing session from backup](https://support.mozilla.org/en-US/kb/how-restore-browsing-session-backup) - KB Writing
