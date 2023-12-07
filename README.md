@@ -9,13 +9,16 @@ The real estimate varies from the below equations but not by much.
 
 ### Blockchain Analysis
 Preliminary report – brief analysis report to get the big picture which is free of charge.
+
 The analysis itself – analysis with several tools from our tech stack (Arkham, etc.). We investigate further into suspect wallet addresses and provide detailed next steps. 
+
 Time - on average, it takes < 72 hours for prelim report to be delivered. The full completion of a case depends solely on the complexity. We try to take all these factors into account during the project estimation.
 
 Cost of the report = Number of suspect addresses (determined from prelim report) / 200 * 1.5 * the cost of one working day of the team. 
 
 ### Writing
 I do not know everything. Hence, I take time to thoroughly research and read as much as possible to create high-quality pieces. 
+
 Though cost doesn't change, the time taken may vary depending on how complex of a topic it is. 
 
 Cost per article = Number of words/ 200 * 1.5 * the cost of one working day of the team.
