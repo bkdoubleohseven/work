@@ -5,25 +5,7 @@ BK007 has availability for conducting reports on blockchain analysis as well as 
 
 ## Pricing
 
-The real estimate varies from the below equations but not by much.
-
-### Blockchain Analysis
-Preliminary report – brief analysis report to get the big picture which is free of charge.
-
-The analysis itself – analysis with several tools from our tech stack (Arkham, etc.). We investigate further into suspect wallet addresses and provide detailed next steps. 
-
-Time - on average, it takes < 72 hours for prelim report to be delivered. The full completion of a case depends solely on the complexity. We try to take all these factors into account during the project estimation.
-
-Cost of the report (blockchain analysis + osint) = Number of suspect addresses (determined from prelim report) + number of identifiable suspects * the cost of one working day. 
-
-### Writing
-I do not know _everything_. Hence, I take time to thoroughly research and read as much as possible to create high-quality pieces. 
-
-The time taken may vary depending on how complex of a topic it is. It enerally ranges between 1 - 2 hrs with extreme cases being 3 hrs.
-
-
-Cost per article = Number of words / 7 * time taken 
-
+All based on: Load, complexity, and time.
 
 
 ## Past work and/or clients (able to publicly disclose)
