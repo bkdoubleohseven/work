@@ -1,29 +1,24 @@
 # BK007 Blockchain Analysis & Writing
 
-BK007 has availability for conducting reports on blockchain analysis and intel gathering as well as writing. Reach out to me on [Twitter](https://twitter.com/bkdoubleohseven) or [Telegram](https://t.me/bkdoubleohseven), both @bkdoubleohseven.
+BK007 has availability for conducting reports on blockchain analysis as well as writing. Reach out to me on [Twitter](https://twitter.com/bkdoubleohseven) or [Telegram](https://t.me/bkdoubleohseven), both @bkdoubleohseven.
 
 
 ## Cost
+
+The real estimate varies from the below equations but not by much.
+
 ### Blockchain Analysis
-Preliminary research – the study of the project, its documentation, a first quick review of the code base, and compiling the list of integrations. In addition, we check both the web and our knowledge base for similar projects, their prior audits, and relevant exploits.
-The audit itself – this part includes both manual code review (the most important part of the audit) and analysis with several security tools, both proprietary and publicly available.
-The preparation of the private report.
-Re-check – the check of the fixes that the dev team applied based on the recommendations from the private report and update of the private report to the public version.
-We base our estimation on the amount of code and its features. On average, during the manual review, auditors check ~200 lines of the Solidity code daily. The actual speed depends on the complexity, quality, and style of the code, the number of integrations, and the complexity of the scope. We try to take all these factors into account during the project estimation. All other works take around 50% of the time needed for the manual review.
+Preliminary report – brief analysis report to get the big picture which is free of charge.
+The analysis itself – analysis with several tools from our tech stack (Arkham, etc.). We investigate further into suspect wallet addresses and provide detailed next steps. 
+Time - on average, it takes < 72 hours for prelim report to be delivered. The full completion of a case depends solely on the complexity. We try to take all these factors into account during the project estimation.
 
-The simplified formula for the estimate is: Cost of the audit = Number of lines of code / 200 * 1.5 * the cost of one working day of the team. Of course, the real estimate often varies from the number obtained by this formula based on the factors listed above.
-
-Usually, our estimate is precise and doesn’t deviate from the actual time spent on the project by more than 10%. If we underestimate the amount of work, we use our reserves (free of charge). If we complete main tasks faster than expected, we perform additional checks on the project.
-
-In rare cases, the estimate deviates significantly (up to 25%). This happens, for example, if the code contains too many problems, and the report preparation and the re-check require extra effort. We discuss such cases separately.
+Cost of the report = Number of suspect addresses (determined from prelim report) / 200 * 1.5 * the cost of one working day of the team. 
 
 ### Writing
+I do not know everything. Hence, I take time to thoroughly research and read as much as possible to create high-quality pieces. 
+Though cost doesn't change, the time taken may vary depending on how complex of a topic it is. 
 
-
-
-
-
-
+Cost per article = Number of words/ 200 * 1.5 * the cost of one working day of the team.
 
 
 
