@@ -4,6 +4,7 @@ BK007 has availability for conducting reports on blockchain analysis and intel g
 
 
 ## Cost
+### Blockchain Analysis
 Preliminary research – the study of the project, its documentation, a first quick review of the code base, and compiling the list of integrations. In addition, we check both the web and our knowledge base for similar projects, their prior audits, and relevant exploits.
 The audit itself – this part includes both manual code review (the most important part of the audit) and analysis with several security tools, both proprietary and publicly available.
 The preparation of the private report.
@@ -15,6 +16,10 @@ The simplified formula for the estimate is: Cost of the audit = Number of lines 
 Usually, our estimate is precise and doesn’t deviate from the actual time spent on the project by more than 10%. If we underestimate the amount of work, we use our reserves (free of charge). If we complete main tasks faster than expected, we perform additional checks on the project.
 
 In rare cases, the estimate deviates significantly (up to 25%). This happens, for example, if the code contains too many problems, and the report preparation and the re-check require extra effort. We discuss such cases separately.
+
+### Writing
+
+
 
 
 
