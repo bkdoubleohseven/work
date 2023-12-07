@@ -40,36 +40,44 @@ Past work and/or clients (able to publicly disclose).
 
 
 
-**August 2023**
 
 
-**August 2023**
+**December 2022**
 
-**August 2023**
+**November 2022**
 
-**August 2023**
+**October 2022**
 
-**August 2023**
+**September 2022**
 
-**August 2023**
+**August 2022**
 
 **July 2022**
-1. [Address bar autocomplete suggestions in Firefox ](https://support.mozilla.org/en-US/kb/address-bar-autocomplete-firefox)
+1. [Address bar autocomplete suggestions in Firefox](https://support.mozilla.org/en-US/kb/address-bar-autocomplete-firefox) - KB Writing
 
 **June 2022**
 
 **May 2022**
+1. [Find what version of Firefox you are using](https://support.mozilla.org/en-US/kb/find-what-version-firefox-you-are-using) - KB Writing
 
 
 **April 2022**
 
-1. [Secure connection failed and Firefox did not connect](https://support.mozilla.org/en-US/kb/secure-connection-failed-firefox-did-not-connect)
+1. [Secure connection failed and Firefox did not connect](https://support.mozilla.org/en-US/kb/secure-connection-failed-firefox-did-not-connect) - KB Writing
 
-2. 
+   
 
 **March 2022**
+1. [Bookmarks in Firefox](https://support.mozilla.org/en-US/kb/bookmarks-firefox) - KB Writing
+   
 
-**February 2023**
-1. [Install an older version of Firefox ](https://support.mozilla.org/en-US/kb/install-older-version-firefox)
-2. [Import Bookmarks and other data from Microsoft Edge](https://support.mozilla.org/en-US/kb/import-bookmarks-and-other-data-microsoft-edge)
 
+**February 2022**
+1. [What is search hijacking?](https://support.mozilla.org/en-US/kb/what-search-hijacking) - KB Writing
+2. [Install an older version of Firefox ](https://support.mozilla.org/en-US/kb/install-older-version-firefox) - KB Writing
+3. [Import Bookmarks and other data from Microsoft Edge](https://support.mozilla.org/en-US/kb/import-bookmarks-and-other-data-microsoft-edge) - KB Writing
+
+**January 2022**
+1. [View PDF files in Firefox or choose another viewer](https://support.mozilla.org/en-US/kb/view-pdf-files-firefox-or-choose-another-viewer) - KB Writing
+2. [Use themes to change the look of Firefox ](https://support.mozilla.org/en-US/kb/use-themes-change-look-of-firefox) - KB Writing
+3. [Customize items on your Firefox New Tab page](https://support.mozilla.org/en-US/kb/customize-items-on-firefox-new-tab-page) - KB Writing
