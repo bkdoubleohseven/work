@@ -3,7 +3,7 @@
 BK007 has availability for conducting reports on blockchain analysis as well as writing. Reach out to me on [Twitter](https://twitter.com/bkdoubleohseven) or [Telegram](https://t.me/bkdoubleohseven), both @bkdoubleohseven.
 
 
-## Cost
+## Pricing
 
 The real estimate varies from the below equations but not by much.
 
